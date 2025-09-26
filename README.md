@@ -1,6 +1,6 @@
 ## LibraryNodeExpress_TypeScriptPostgreSQL
 
-**LibraryNodeExpress_TypeScriptPostgreSQL** is an NodeJS + Express API that manages library-related information, including authors, books, and publishing houses, as well as handling user authentication and logging actions performed on the system.
+**LibraryNodeExpress_TypeScriptPostgreSQL** is an Nodejs + Express API that manages library-related information, including authors, books, and publishing houses, as well as handling user authentication and logging actions performed on the system. It uses TypeScript, PostgreSQL and JWT for authentication.
 
 LibraryNodeExpress_TypeScriptPostgreSQL/  
 ├── src/    
